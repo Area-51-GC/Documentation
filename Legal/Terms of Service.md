@@ -1,4 +1,4 @@
-# Terms of Service
+# [Terms of Service](/legal/Terms-of-Service)
 
 > Area 51 provides a home to players all around the globe who want to share a laugh, either by playing together or by looking at memes.
 >
