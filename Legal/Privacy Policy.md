@@ -1,7 +1,6 @@
 # [Privacy Policy](/legal/privacy-policy)
 
-> Effective: June 21st, 2021
-> Last Revised: May 31st, 2021
+> Effective: June 21st, 2021<br/>Last Revised: May 31st, 2021
 
 We want you to understand how and why Area 51 Gaming Community (“**Area 51**,” “**we**” or “**us**”) collects, uses, and shares information about you when you use our sites, widgets, and other online products and services (collectively, the "**Services**") or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services.
 

@@ -1,11 +1,10 @@
-# [Code of Conduct](/legal/Code-of-Conduct)
+# [Code of Conduct](/legal/code-of-conduct)
 
 > Hundreds of people around the globe find Area 51 as a place where to share a laugh and have fun together with other people. 
 >
 > **In order to make this happen, a basic, but *complete* set of rules is needed; after all, everybody has the right to enjoy his time at Area 51.**
 >
-> Effective: June 21st, 2021
-> Last Revised: May 31st, 2021
+> Effective: June 21st, 2021<br/>Last Revised: May 31st, 2021
 
 Hello, comrades and people of the Internet!
 This Code of Conduct ("**Code**") is a basic set of rules that makes civil and polite interactions and fun possible in our Community and is to be respected on the Services provided by Area 51.

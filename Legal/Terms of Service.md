@@ -4,8 +4,7 @@
 >
 > **These Terms of Service and your conduct make enjoying the platforms Area 51 offers possible.**
 >
-> Effective: June 21st, 2021
-> Last Revised: May 31st, 2021
+> Effective: June 21st, 2021<br/>Last Revised: May 31st, 2021
 
 Hello, comrades and people of the Internet! These Terms of Service ("**Terms**" or "**ToS**") applies to your access to and use of the websites, widgets, APIs, game servers, Discord server and other online products and services (collectively, the "**Services**") provided by Area 51 Gaming Community ("**Area 51**", "**we**", "**us**" or "**our**").
 
