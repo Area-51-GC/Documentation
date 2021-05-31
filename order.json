@@ -5,11 +5,13 @@
         "fileContent": [
             {
                 "fileName": "Test",
-                "fileType": "file"
+                "fileType": "file",
+                "parentFolder": "Test"
             },
             {
                 "fileName": "Main",
-                "fileType": "file"
+                "fileType": "file",
+                "parentFolder": "Test"
             }
         ]
     }
