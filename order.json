@@ -1,8 +1,16 @@
 [
     {
-        "folderName": "Test",
-        "folderContent": [
-            "Test", "Main"
+        "fileName": "Test",
+        "fileType": "directory",
+        "fileContent": [
+            {
+                "fileName": "Test",
+                "fileType": "file"
+            },
+            {
+                "fileName": "Main",
+                "fileType": "file"
+            }
         ]
     }
 ]
