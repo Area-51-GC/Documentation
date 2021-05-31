@@ -1,17 +1,22 @@
 [
     {
-        "fileName": "Test",
+        "fileName": "Legal",
         "fileType": "directory",
         "fileContent": [
             {
-                "fileName": "Test",
+                "fileName": "Terms of Service",
                 "fileType": "file",
-                "parentFolder": "Test"
+                "parentFolder": "Legal"
             },
             {
-                "fileName": "Main",
+                "fileName": "Code of Conduct",
                 "fileType": "file",
-                "parentFolder": "Test"
+                "parentFolder": "Legal"
+            },
+            {
+                "fileName": "Privacy Policy",
+                "fileType": "file",
+                "parentFolder": "Legal"
             }
         ]
     }
