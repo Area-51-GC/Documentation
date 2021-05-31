@@ -10,7 +10,7 @@
 Hello, comrades and people of the Internet!
 This Code of Conduct ("**Code**") is a basic set of rules that makes civil and polite interactions and fun possible in our Community and is to be respected on the Services provided by Area 51.
 
-## [1. Rules](/legal/code-of-conduct#Rules){#Rules}
+<h2 id="rules"><a href="#rules">1. Rules</a></h2>
 
 ### Rule 1
 
@@ -50,7 +50,7 @@ Keep it legal, and avoid posting illegal content or soliciting or facilitating i
 
 Do not break our Services or do anything that interferes with their normal operation.
 
-## [2. Enforcement](/legal/code-of-conduct#Enforcement){#Enforcement}
+<h2 id="enforcement"><a href="#enforcement">2. Enforcement</a></h2>
 
 We have a variety of ways of enforcing our rules, including, but not limited to:
 

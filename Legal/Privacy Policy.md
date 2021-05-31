@@ -7,23 +7,23 @@ We want you to understand how and why Area 51 Gaming Community (â€œ**Area 51**,â
 
 <h2 id="what-we-collect"><a href="#what-we-collect">1. What We Collect</a></h2>
 
-| Information You Provide to Us<br /><span style="font-weight: 300; opacity: 75%">We collect information you provide to us directly when you use the Services.</span> |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Account information*                                        | When you create an account, you provide a username and email address. For certain services you may be required to provide a password. Your username is public and it doesn't have to be related to your real name. You can also choose to provide other information, like a biography, profile picture and gender. We also store your user account preferences and settings. |
-| *Content you submit*                                         | We collect the content you submit to the Services. This includes your posts, comments, links, pictures and videos, reports and tickets and, in general, any communication or interaction with us. |
-| *Actions you take*                                           | We collect information about the actions you take when using the Services. This includes your interactions with content and other users. |
-| *Other information*                                          | You may choose to provide other information directly to us, through promotions, forms, applications and support. |
+|                       | Information You Provide to Us<br /><span style="font-weight: 300; opacity: 75%">We collect information you provide to us directly when you use the Services.</span> |
+| --------------------- | ------------------------------------------------------------ |
+| *Account information* | When you create an account, you provide a username and email address. For certain services you may be required to provide a password. Your username is public and it doesn't have to be related to your real name. You can also choose to provide other information, like a biography, profile picture and gender. We also store your user account preferences and settings. |
+| *Content you submit*  | We collect the content you submit to the Services. This includes your posts, comments, links, pictures and videos, reports and tickets and, in general, any communication or interaction with us. |
+| *Actions you take*    | We collect information about the actions you take when using the Services. This includes your interactions with content and other users. |
+| *Other information*   | You may choose to provide other information directly to us, through promotions, forms, applications and support. |
 
-| Information We Collect Automatically<br /><span style="font-weight: 300; opacity: 75%">When you access or use our Services, we may also automatically collect information about you.</span> |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Log and usage data*                                         | We may log information when you access and use the Services. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g. *device IDs*), device settings, pages visited, links clicked, the requested URL, and search terms. |
-| *Cookies and similar technologies*                           | We may receive information from cookies (i.e. *data that, stored by your browser, are sent back by it when making requests*), and similar technologies. |
-| *Location information*                                       | We may receive and process information about your location.  |
+|                                    | Information We Collect Automatically<br /><span style="font-weight: 300; opacity: 75%">When you access or use our Services, we may also automatically collect information about you.</span> |
+| ---------------------------------- | ------------------------------------------------------------ |
+| *Log and usage data*               | We may log information when you access and use the Services. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g. *device IDs*), device settings, pages visited, links clicked, the requested URL, and search terms. |
+| *Cookies and similar technologies* | We may receive information from cookies (i.e. *data that, stored by your browser, are sent back by it when making requests*), and similar technologies. |
+| *Location information*             | We may receive and process information about your location.  |
 
-| Information Collected from Third Parties<br /><span style="font-weight: 300; opacity: 75%">We may receive information about you from third parties, and combine such information with the other information we have about you.</span> |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Linked services*                                            | If you login with a third-party identity provider, we may receive information about you or that provider may share such information about you with us. |
-| *Information collected from integrations*                    | We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds. |
+|                                           | Information Collected from Third Parties<br /><span style="font-weight: 300; opacity: 75%">We may receive information about you from third parties, and combine such information with the other information we have about you.</span> |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| *Linked services*                         | If you login with a third-party identity provider, we may receive information about you or that provider may share such information about you with us. |
+| *Information collected from integrations* | We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds. |
 
 <h2 id="how-we-use-your-data"><a href="#how-we-use-your-data">2. How We Use Your Data</a></h2>
 
