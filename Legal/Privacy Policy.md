@@ -1,11 +1,11 @@
-# [Privacy Policy](/legal/Privacy-Policy)
+# [Privacy Policy](/legal/privacy-policy)
 
 > Effective: June 21st, 2021
 > Last Revised: May 31st, 2021
 
 We want you to understand how and why Area 51 Gaming Community (“**Area 51**,” “**we**” or “**us**”) collects, uses, and shares information about you when you use our sites, widgets, and other online products and services (collectively, the "**Services**") or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services.
 
-## [1. What We Collect](/legal/Privacy-Policy#What-We-Collect)
+## [1. What We Collect](/legal/privacy-policy#What-We-Collect){#What-We-Collect}
 
 | Information You Provide to Us<br /><span style="font-weight: 300; opacity: 75%">We collect information you provide to us directly when you use the Services.</span> |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -25,7 +25,7 @@ We want you to understand how and why Area 51 Gaming Community (“**Area 51**,�
 | *Linked services*                                            | If you login with a third-party identity provider, we may receive information about you or that provider may share such information about you with us. |
 | *Information collected from integrations*                    | We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds. |
 
-## [2. How We Use Your Data](/legal/Privacy-Policy#How-We-Use-Your-Data)
+## [2. How We Use Your Data](/legal/privacy-policy#How-We-Use-Your-Data){#How-We-Use-Your-Data}
 
 We use information about you to:
 
@@ -45,7 +45,7 @@ We share data with third parties only in the following compelling circumstances:
 - Comply with our legal obligations;
 - Enforcement of our policies and rights.
 
-## [3. Your Choices](/legal/Privacy-Policy#Your-Choices)
+## [3. Your Choices](/legal/privacy-policy#Your-Choices){#Your-Choices}
 
 You have choices about how to protect and limit the collection, use, and sharing of information about you when you use the Services. Some of these choices are available to everybody who uses our Services, while others only apply if you have an account.
 
@@ -56,13 +56,13 @@ You have choices about how to protect and limit the collection, use, and sharing
 | *Controlling the Use of Cookies*          | Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information on controlling how cookies and similar technologies are used on our Services, see our Cookie Notice. |
 | *Do Not Track*                            | Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked. However, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal. Instead, in addition to publicly available third-party tools, we offer you the choices described in this policy to manage the collection and use of information about you. |
 
-## [4. Your Rights](/legal/Privacy-Policy#Your-Rights)
+## [4. Your Rights](/legal/privacy-policy#Your-Rights){#Your-Rights}
 
-### [Data Subject and Consumer Information Requests](/legal/Privacy-Policy#Data-Subject-and-Consumer-Information-Requests)
+### Data Subject and Consumer Information Requests
 
 Requests for a copy of the information Reddit has about your account—including EU General Data Protection Regulation (GDPR) data subject access requests—can be submitted through Your Account page.
 
-### [Additional Information for EEA Users](/legal/Privacy-Policy#Additional-Information-for-EEA-Users)
+### Additional Information for EEA Users
 
 Users in the European Economic Area have the right to request access to, rectification of, or erasure of their personal data; to data portability in certain circumstances; to request restriction of processing; to object to processing; and to withdraw consent for processing where they have previously provided consent. These rights can be exercised using the information provided under “Your Choices” above or as described in the “Your Rights - Data Subject and Consumer Information Requests section” above. EEA users also have the right to lodge a complaint with their local supervisory authority.
 
@@ -73,11 +73,11 @@ As required by applicable law, we collect and process information about individu
 - It satisfies a legitimate interest (which is not overridden by your data protection interests), such as preventing fraud, ensuring network and information security, enforcing our rules and policies, protecting our legal rights and interests, research and development, personalising the Services, and marketing and promoting the Services; or
 - We need to process your information to comply with our legal obligations.
 
-### [Children](/legal/Privacy-Policy#Children)
+### Children
 
 Children under the age of 12 are not allowed to create an account or otherwise use the Services. Additionally, if you are in the EEA, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have obtained verifiable consent from your parent or legal guardian.
 
-### [Changes to This Policy](/legal/Privacy-Policy#Changes-to-This-Policy)
+### [Changes to This Policy](/legal/privacy-policy#Changes-to-This-Policy){#Changes-to-This-Policy}
 
 We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide an email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
 
