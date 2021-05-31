@@ -5,7 +5,8 @@
 
 We want you to understand how and why Area 51 Gaming Community (“**Area 51**,” “**we**” or “**us**”) collects, uses, and shares information about you when you use our sites, widgets, and other online products and services (collectively, the "**Services**") or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services.
 
-## [1. What We Collect](/legal/privacy-policy#What-We-Collect){#What-We-Collect}
+<a name="what-we-collect"></a>
+## 1. What We Collect
 
 | Information You Provide to Us<br /><span style="font-weight: 300; opacity: 75%">We collect information you provide to us directly when you use the Services.</span> |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -25,7 +26,8 @@ We want you to understand how and why Area 51 Gaming Community (“**Area 51**,�
 | *Linked services*                                            | If you login with a third-party identity provider, we may receive information about you or that provider may share such information about you with us. |
 | *Information collected from integrations*                    | We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds. |
 
-## [2. How We Use Your Data](/legal/privacy-policy#How-We-Use-Your-Data){#How-We-Use-Your-Data}
+<a name="how-we-use-your-data"></a>
+## 2. How We Use Your Data
 
 We use information about you to:
 
@@ -45,7 +47,9 @@ We share data with third parties only in the following compelling circumstances:
 - Comply with our legal obligations;
 - Enforcement of our policies and rights.
 
-## [3. Your Choices](/legal/privacy-policy#Your-Choices){#Your-Choices}
+<a name="your-choices"></a>
+
+## 3. Your Choices
 
 You have choices about how to protect and limit the collection, use, and sharing of information about you when you use the Services. Some of these choices are available to everybody who uses our Services, while others only apply if you have an account.
 
@@ -56,7 +60,9 @@ You have choices about how to protect and limit the collection, use, and sharing
 | *Controlling the Use of Cookies*          | Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information on controlling how cookies and similar technologies are used on our Services, see our Cookie Notice. |
 | *Do Not Track*                            | Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked. However, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal. Instead, in addition to publicly available third-party tools, we offer you the choices described in this policy to manage the collection and use of information about you. |
 
-## [4. Your Rights](/legal/privacy-policy#Your-Rights){#Your-Rights}
+<a name="your-rights"></a>
+
+## 4. Your Rights
 
 ### Data Subject and Consumer Information Requests
 
@@ -77,7 +83,8 @@ As required by applicable law, we collect and process information about individu
 
 Children under the age of 12 are not allowed to create an account or otherwise use the Services. Additionally, if you are in the EEA, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have obtained verifiable consent from your parent or legal guardian.
 
-### [Changes to This Policy](/legal/privacy-policy#Changes-to-This-Policy){#Changes-to-This-Policy}
+<a name="changes"></a>
+### Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide an email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
 
