@@ -136,7 +136,7 @@ You may terminate these Terms at any time and for any reason by deleting your Ac
 
 We may suspend or terminate your Account, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Code of Conduct](/legal/code-of-conduct).
 
-The following sections will survive any termination of these Terms or of your Account: 4 ([Your Content](/legal/terms-of-service#Your-Content)), 6 ([Things You Cannot Do](/legal/terms-of-service#Things-You-Cannot-Do)), 9 ([Indemnity](/legal/terms-of-service#Indemnity)), 10 ([Disclaimers](/legal/terms-of-service#Disclaimers)), 11 ([Limitation of Liability](/legal/terms-of-service#Limitation-of-Liability)), 12 ([Governing Law and Venue](/legal/terms-of-service#Governing-Law-and-Venue)), 15 ([Termination](/legal/terms-of-service#Termination)), and 16 ([Miscellaneous](/legal/terms-of-service#Miscellaneous)).
+The following sections will survive any termination of these Terms or of your Account: 4 ([Your Content](#your-content)), 6 ([Things You Cannot Do](#things-you-cannot-do)), 9 ([Indemnity](#indemnity)), 10 ([Disclaimers](#disclaimers)), 11 ([Limitation of Liability](#limitation-of-liability)), 12 ([Governing Law and Venue](#governing-law-and-venue)), 15 ([Termination](#termination)), and 16 ([Miscellaneous](#miscellaneous)).
 
 <h2 id="miscellaneous"><a href="#miscellaneous">16. Miscellaneous</a></h2>
 
