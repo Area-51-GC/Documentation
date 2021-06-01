@@ -32,7 +32,7 @@ Except as permitted through the Services or as otherwise permitted by us in writ
 
 We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof.
 
-<h2 id="your-account-and-account-security"><a href="#your-account-and-account-security">Your Account and Account Security</a></h2>
+<h2 id="your-account-and-account-security"><a href="#your-account-and-account-security">3. Your Account and Account Security</a></h2>
 
 To use certain features of our Services, you may be required to create an Area 51 account (an "**Account**") and provide us with a username, password, and certain other information about yourself as set forth in the [Privacy Policy](/legal/privacy-policy).
 
